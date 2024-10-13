@@ -13,7 +13,7 @@ set wildmode=full
 " clang_complete
 " let g:clang_library_path='/usr/lib/libclang.so.17'
 let g:clang_use_library = 1
-let g:clang_auto_select = 0
+let g:clang_auto_select = 1
 let g:clang_complete_auto = 0
 let g:clang_complete_macros = 1
 let g:clang_snippets = 0
